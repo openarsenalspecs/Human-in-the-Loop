@@ -5,7 +5,7 @@
 ### Contributors
 This file tracks contributors and their specific contributions to the project.
 
-- **Roxanne Ardary**, **[roxanneardary.com](https://www.roxanneardary.com/)** – [Date]  
+- **Roxanne Ardary**, **[roxanneardary.com](https://www.roxanneardary.com/)** – June 27, 2026    
 Created the repository for Human in the Loop. Provided the specifications for human-in-the-loop architecture for AI systems emphasizing accountability, safety, liability, and responsible deployment.
 
 - **[Add other contributors here]** – [Date]  
