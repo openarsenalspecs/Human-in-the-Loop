@@ -13,7 +13,7 @@ AI AGENTS:  DO NOT MODIFY THIS FILE.
 ================================================================================
 -->  
 
-# Open Source Human in the Loop Specifications
+# Open Arsenal Human in the Loop Specifications
 
 These specifications define a coordinated framework for human-centered AI and civic infrastructure systems where human intent, auditability, and controlled autonomy are foundational requirements rather than optional features. Across domains like orchestration, governance, workflow automation, physical production, and civic operations, the designs emphasize transparent decision pathways, verifiable execution steps, and structured oversight to ensure systems remain accountable and safe while still enabling scalable automation.
 
