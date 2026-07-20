@@ -67,6 +67,12 @@ A privacy-first, human-in-the-loop AI orchestration layer that connects enterpri
 
 ---
 
+# Specification Branding License (SBL)
+
+Buy the Basket: [https://roxanneardary.com/human-in-the-loop/](https://roxanneardary.com/human-in-the-loop/)
+
+---
+
 ## License & Notice Requirements
 
 Open Arsenal Human in the Loop Specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
