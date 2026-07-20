@@ -61,7 +61,7 @@ Extended the original paper-to-code generation system with human-in-the-loop enh
 [https://roxanneardary.com/phitrack/](https://roxanneardary.com/phitrack/)  
 Open-source platform that monitors, analyzes, and visualizes PHI transmissions with AI-driven insights, dashboards, alerts, and predictive risk scoring while maintaining human oversight. AGPLv3.  
 
-- **Vexa**  
+- [**Vexa**](https://github.com/openarsenalspecs/Human-in-the-Loop/blob/4e196f0134aad51852c2abdbcd01e111c8fa24a2/Vexa.md)    
 [https://roxanneardary.com/vexa/](https://roxanneardary.com/vexa/)  
 A privacy-first, human-in-the-loop AI orchestration layer that connects enterprise tools and executes workflows with full transparency, control, and explainability. AGPLv3.
 
