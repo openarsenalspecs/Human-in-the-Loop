@@ -29,7 +29,7 @@ Human-in-the-loop (HITL) architecture page by Roxanne Ardary describing the impo
 [https://roxanneardary.com/cortexloop/](https://roxanneardary.com/cortexloop/)  
 A human-in-the-loop AI orchestration system that enforces transparent, structured, and auditable reasoning with full user control over every decision and execution step. AGPLv3.  
 
-- **Covenant AI**  
+- [**Covenant AI**](https://github.com/openarsenalspecs/Human-in-the-Loop/blob/4ce13c291fb16d2af390d16f04b4373adf579c4a/Covenant%20AI.md)    
 [https://roxanneardary.com/covenantai/](https://roxanneardary.com/covenantai/)  
 An open-source AI infrastructure platform built around human authority, bounded autonomy, and fully verifiable, privacy-first execution.  
 
