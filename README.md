@@ -25,21 +25,25 @@ In addition to the open licensing model, a Specification Branding License is ava
 [https://roxanneardary.com/human-in-the-loop/](https://roxanneardary.com/human-in-the-loop/)  
 Human-in-the-loop (HITL) architecture page by Roxanne Ardary describing the importance of human oversight in AI systems for accountability, safety, liability, and responsible deployment. Lists related open projects.  
 
+- **Aurelia Civic OS**  
+[https://roxanneardary.com/aurelia-civic-os/](https://roxanneardary.com/aurelia-civic-os/)  
+A municipal-first civic operating system that structures real-world labor, services, and manufacturing through Intent Mesh routing, Skill Graph intelligence, and verification-driven local execution. 
+
+- **BrandFabric**  
+[https://roxanneardary.com/brandfabric/](https://roxanneardary.com/brandfabric/)  
+BrandFabric is an open-source AI governance platform that helps organizations maintain brand identity, creative consistency, and compliance across generative AI workflows. It provides a transparent intelligence layer for managing brand knowledge, AI-generated content, and enterprise creative governance.  
+
 - **CortexLoop**  
 [https://roxanneardary.com/cortexloop/](https://roxanneardary.com/cortexloop/)  
 A human-in-the-loop AI orchestration system that enforces transparent, structured, and auditable reasoning with full user control over every decision and execution step. AGPLv3.  
 
-- [**Covenant AI Module Specification**](https://github.com/openarsenalspecs/Human-in-the-Loop/blob/4ce13c291fb16d2af390d16f04b4373adf579c4a/Covenant%20AI.md)    
+- **Covenant AI**  
 [https://roxanneardary.com/covenantai/](https://roxanneardary.com/covenantai/)  
 An open-source AI infrastructure platform built around human authority, bounded autonomy, and fully verifiable, privacy-first execution.  
 
 - **Human Intent Governance Standard**  
 [https://roxanneardary.com/human-intent-governance-standard/](https://roxanneardary.com/human-intent-governance-standard/)  
-A structured governance framework for AI systems that ensures verified human intent, compliance validation, risk assessment, and full auditability before any execution.  
-
-- **Aurelia Civic OS**  
-[https://roxanneardary.com/aurelia-civic-os/](https://roxanneardary.com/aurelia-civic-os/)  
-A municipal-first civic operating system that structures real-world labor, services, and manufacturing through Intent Mesh routing, Skill Graph intelligence, and verification-driven local execution.  
+A structured governance framework for AI systems that ensures verified human intent, compliance validation, risk assessment, and full auditability before any execution.   
 
 - **OpenProto**  
 [https://roxanneardary.com/openproto/](https://roxanneardary.com/openproto/)  
@@ -57,11 +61,15 @@ A JavaScript library that enables AI-driven, natural language control of web pag
 [https://roxanneardary.com/paper2code/](https://roxanneardary.com/paper2code/)  
 Extended the original paper-to-code generation system with human-in-the-loop enhancements including interactive code refinement, ambiguity resolution, stepwise generation checkpoints, and experiment configuration controls to improve verification and reproducibility.  
 
-- [**PhiTrack Module Specification**](https://github.com/openarsenalspecs/Human-in-the-Loop/blob/b009492b2e72a29a85230360bc638655336d6f66/PHITrack.md)    
+- **PhiTrack**  
 [https://roxanneardary.com/phitrack/](https://roxanneardary.com/phitrack/)  
 Open-source platform that monitors, analyzes, and visualizes PHI transmissions with AI-driven insights, dashboards, alerts, and predictive risk scoring while maintaining human oversight. AGPLv3.  
 
-- [**Vexa Module Specification**](https://github.com/openarsenalspecs/Human-in-the-Loop/blob/4e196f0134aad51852c2abdbcd01e111c8fa24a2/Vexa.md)    
+- **ProofShield**  
+[https://roxanneardary.com/proofshield/](https://roxanneardary.com/proofshield/)  
+ProofShield is an open-source document authenticity and fraud prevention system designed to protect digital and physical documents from forgery, unauthorized alteration, and AI-generated manipulation. It uses certified mirror images, cryptographic verification, AI detection, privacy-preserving validation, and hardware security integration to create a trusted layer for document verification.  
+
+- **Vexa**  
 [https://roxanneardary.com/vexa/](https://roxanneardary.com/vexa/)  
 A privacy-first, human-in-the-loop AI orchestration layer that connects enterprise tools and executes workflows with full transparency, control, and explainability. AGPLv3.
 
