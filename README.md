@@ -57,7 +57,7 @@ Enhanced with AI & Automation features, including a Human-in-the-Loop system tha
 [https://roxanneardary.com/page-agent/](https://roxanneardary.com/page-agent/)  
 A JavaScript library that enables AI-driven, natural language control of web pages by interpreting user commands and executing them through DOM-based automation with optional Human-in-the-Loop verification and security features like end-to-end encryption.  
 
-- **paper2code**  
+- [**paper2code Module Specification**](https://github.com/openarsenalspecs/Human-in-the-Loop/blob/2ee293c2a8a3d828ef4c4067c7734365778c5658/paper2code.md)    
 [https://roxanneardary.com/paper2code/](https://roxanneardary.com/paper2code/)  
 Extended the original paper-to-code generation system with human-in-the-loop enhancements including interactive code refinement, ambiguity resolution, stepwise generation checkpoints, and experiment configuration controls to improve verification and reproducibility.  
 
