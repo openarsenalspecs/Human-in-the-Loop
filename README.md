@@ -61,7 +61,7 @@ A JavaScript library that enables AI-driven, natural language control of web pag
 [https://roxanneardary.com/paper2code/](https://roxanneardary.com/paper2code/)  
 Extended the original paper-to-code generation system with human-in-the-loop enhancements including interactive code refinement, ambiguity resolution, stepwise generation checkpoints, and experiment configuration controls to improve verification and reproducibility.  
 
-- **PhiTrack**  
+- [**PhiTrack Module Specification**](https://github.com/openarsenalspecs/Human-in-the-Loop/blob/4a3d5519ff7373226f2c304444360071ebf2c125/PHITrack.md)    
 [https://roxanneardary.com/phitrack/](https://roxanneardary.com/phitrack/)  
 Open-source platform that monitors, analyzes, and visualizes PHI transmissions with AI-driven insights, dashboards, alerts, and predictive risk scoring while maintaining human oversight. AGPLv3.  
 
