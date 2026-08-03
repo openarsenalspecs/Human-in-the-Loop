@@ -37,7 +37,7 @@ BrandFabric is an open-source AI governance platform that helps organizations ma
 [https://roxanneardary.com/cortexloop/](https://roxanneardary.com/cortexloop/)  
 A human-in-the-loop AI orchestration system that enforces transparent, structured, and auditable reasoning with full user control over every decision and execution step. AGPLv3.  
 
-- **Covenant AI**  
+- [**Covenant AI Module Specification**](https://github.com/openarsenalspecs/Human-in-the-Loop/blob/89f054941c3b78f210abe25502f27a8d6e34bd05/Covenant%20AI.md)    
 [https://roxanneardary.com/covenantai/](https://roxanneardary.com/covenantai/)  
 An open-source AI infrastructure platform built around human authority, bounded autonomy, and fully verifiable, privacy-first execution.  
 
