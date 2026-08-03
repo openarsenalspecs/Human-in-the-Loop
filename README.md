@@ -49,7 +49,7 @@ A structured governance framework for AI systems that ensures verified human int
 [https://roxanneardary.com/openproto/](https://roxanneardary.com/openproto/)  
 The open network for physical creation that discovers, optimizes, and converts open hardware designs into fully sourced, manufacturable outputs with human-in-the-loop control.  
 
-- **OpenScreen**  
+- [**OpenScreen Module Specification**](https://github.com/openarsenalspecs/Human-in-the-Loop/blob/aeba9b263958f9786bcca90b28632f2442e13e5e/OpenScreen.md)    
 [https://roxanneardary.com/openscreen/](https://roxanneardary.com/openscreen/)  
 Enhanced with AI & Automation features, including a Human-in-the-Loop system that ensures user-controlled editing, smart suggestions, and improved workflow efficiency.  
 
