@@ -53,7 +53,7 @@ The open network for physical creation that discovers, optimizes, and converts o
 [https://roxanneardary.com/openscreen/](https://roxanneardary.com/openscreen/)  
 Enhanced with AI & Automation features, including a Human-in-the-Loop system that ensures user-controlled editing, smart suggestions, and improved workflow efficiency.  
 
-- **Page-Agent**  
+- [**Page-Agent Module Specification**](https://github.com/openarsenalspecs/Human-in-the-Loop/blob/5520059b351446b67769d1849f9c00e16d83a258/Page-Agent.md)    
 [https://roxanneardary.com/page-agent/](https://roxanneardary.com/page-agent/)  
 A JavaScript library that enables AI-driven, natural language control of web pages by interpreting user commands and executing them through DOM-based automation with optional Human-in-the-Loop verification and security features like end-to-end encryption.  
 
