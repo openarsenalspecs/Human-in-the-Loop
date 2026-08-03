@@ -69,7 +69,7 @@ Open-source platform that monitors, analyzes, and visualizes PHI transmissions w
 [https://roxanneardary.com/proofshield/](https://roxanneardary.com/proofshield/)  
 ProofShield is an open-source document authenticity and fraud prevention system designed to protect digital and physical documents from forgery, unauthorized alteration, and AI-generated manipulation. It uses certified mirror images, cryptographic verification, AI detection, privacy-preserving validation, and hardware security integration to create a trusted layer for document verification.  
 
-- **Vexa**  
+- [**Vexa Module Specification**](https://github.com/openarsenalspecs/Human-in-the-Loop/blob/c981e60ddfa55fa26f890c04a852a102db2d1c5c/Vexa.md)    
 [https://roxanneardary.com/vexa/](https://roxanneardary.com/vexa/)  
 A privacy-first, human-in-the-loop AI orchestration layer that connects enterprise tools and executes workflows with full transparency, control, and explainability. AGPLv3.
 
