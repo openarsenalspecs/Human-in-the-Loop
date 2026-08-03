@@ -33,7 +33,7 @@ A municipal-first civic operating system that structures real-world labor, servi
 [https://roxanneardary.com/brandfabric/](https://roxanneardary.com/brandfabric/)  
 BrandFabric is an open-source AI governance platform that helps organizations maintain brand identity, creative consistency, and compliance across generative AI workflows. It provides a transparent intelligence layer for managing brand knowledge, AI-generated content, and enterprise creative governance.  
 
-- **CortexLoop**  
+- [**CortexLoop Module Specification**](https://github.com/openarsenalspecs/Human-in-the-Loop/blob/8633740b59357692cd2d14d49404f306ffbbc1a4/CortexLoop.md)    
 [https://roxanneardary.com/cortexloop/](https://roxanneardary.com/cortexloop/)  
 A human-in-the-loop AI orchestration system that enforces transparent, structured, and auditable reasoning with full user control over every decision and execution step. AGPLv3.  
 
