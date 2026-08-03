@@ -45,7 +45,7 @@ An open-source AI infrastructure platform built around human authority, bounded 
 [https://roxanneardary.com/human-intent-governance-standard/](https://roxanneardary.com/human-intent-governance-standard/)  
 A structured governance framework for AI systems that ensures verified human intent, compliance validation, risk assessment, and full auditability before any execution.   
 
-- **OpenProto**  
+- [**OpenProto Module Specification**](https://github.com/openarsenalspecs/Human-in-the-Loop/blob/11978821071136837113c7fc472b1e53413428f1/OpenProto.md)    
 [https://roxanneardary.com/openproto/](https://roxanneardary.com/openproto/)  
 The open network for physical creation that discovers, optimizes, and converts open hardware designs into fully sourced, manufacturable outputs with human-in-the-loop control.  
 
