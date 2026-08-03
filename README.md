@@ -41,7 +41,7 @@ A human-in-the-loop AI orchestration system that enforces transparent, structure
 [https://roxanneardary.com/covenantai/](https://roxanneardary.com/covenantai/)  
 An open-source AI infrastructure platform built around human authority, bounded autonomy, and fully verifiable, privacy-first execution.  
 
-- **Human Intent Governance Standard**  
+- [**Human Intent Governance Standard Module Specification**](https://github.com/openarsenalspecs/Human-in-the-Loop/blob/f6e1d543a4e786d6e7eb9386ce5341a3148769f2/Human%20Intent%20Governance%20Standard.md)    
 [https://roxanneardary.com/human-intent-governance-standard/](https://roxanneardary.com/human-intent-governance-standard/)  
 A structured governance framework for AI systems that ensures verified human intent, compliance validation, risk assessment, and full auditability before any execution.   
 
