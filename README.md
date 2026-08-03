@@ -65,7 +65,7 @@ Extended the original paper-to-code generation system with human-in-the-loop enh
 [https://roxanneardary.com/phitrack/](https://roxanneardary.com/phitrack/)  
 Open-source platform that monitors, analyzes, and visualizes PHI transmissions with AI-driven insights, dashboards, alerts, and predictive risk scoring while maintaining human oversight. AGPLv3.  
 
-- **ProofShield**  
+- [**ProofShield Module Specification**](https://github.com/openarsenalspecs/Human-in-the-Loop/blob/2b151be101c2dfdbfa7902fbbf4ad4eaee0a3564/ProofShield.md)    
 [https://roxanneardary.com/proofshield/](https://roxanneardary.com/proofshield/)  
 ProofShield is an open-source document authenticity and fraud prevention system designed to protect digital and physical documents from forgery, unauthorized alteration, and AI-generated manipulation. It uses certified mirror images, cryptographic verification, AI detection, privacy-preserving validation, and hardware security integration to create a trusted layer for document verification.  
 
