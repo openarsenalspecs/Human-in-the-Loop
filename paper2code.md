@@ -1,5 +1,285 @@
 # paper2code
 
+## Overview
+
+The Paper2Code Specification defines an open, modular framework for transforming academic research, technical documentation, and knowledge sources into verified, reproducible, and maintainable software implementations.
+
+The specification enables AI-assisted development systems to analyze research materials, generate implementation plans, produce structured codebases, and maintain traceability between source knowledge and generated software.
+
+The specification is designed around a modular architecture. Core capabilities provide the foundation required for compliant implementations, while optional plugin modules allow organizations, researchers, and developers to extend functionality for specialized workflows.
+
+---
+
+# Modular Architecture
+
+Paper2Code implementations are divided into:
+
+- Core Modules
+  - Required functionality that defines the base specification.
+  - Must be implemented by compliant systems.
+
+- Plugin Modules
+  - Optional extensions that add specialized capabilities.
+  - Can be independently developed, distributed, and integrated.
+
+---
+
+# Core Modules
+
+## 1. Research Document Processing Module
+
+Provides the foundation for ingesting and understanding research materials.
+
+Features:
+
+- Academic paper ingestion
+- Technical document parsing
+- PDF and LaTeX processing
+- Section and reference extraction
+- Figure and table analysis
+- Appendix extraction
+- Citation tracking
+
+---
+
+## 2. Knowledge Extraction Module
+
+Converts research content into structured technical knowledge.
+
+Features:
+
+- Methodology extraction
+- Algorithm identification
+- Architecture discovery
+- Dataset identification
+- Parameter extraction
+- Equation interpretation
+- Implementation requirement mapping
+
+---
+
+## 3. Citation Anchoring Module
+
+Maintains traceability between generated implementations and source material.
+
+Features:
+
+- Code-to-paper references
+- Section-level citations
+- Equation references
+- Design decision tracking
+- Source provenance records
+
+---
+
+## 4. Ambiguity Analysis Module
+
+Identifies incomplete or unclear implementation details.
+
+Features:
+
+- Specification completeness analysis
+- Missing parameter detection
+- Contradiction detection
+- Uncertainty classification:
+
+  - SPECIFIED
+  - PARTIALLY_SPECIFIED
+  - UNSPECIFIED
+
+- Alternative implementation suggestions
+
+---
+
+## 5. Code Generation Module
+
+Creates structured, maintainable software implementations.
+
+Features:
+
+- Project scaffolding
+- Source code generation
+- Configuration generation
+- Dependency management
+- Documentation generation
+- Framework-specific implementation support
+
+Supported targets may include:
+
+- Python
+- JavaScript
+- Rust
+- C/C++
+- Machine learning frameworks
+- Data processing frameworks
+
+---
+
+## 6. Reproducibility Module
+
+Ensures generated implementations can be tested and recreated.
+
+Features:
+
+- Environment configuration
+- Dependency locking
+- Experiment configuration
+- Dataset references
+- Training configuration
+- Evaluation workflows
+
+---
+
+## 7. Human-in-the-Loop Control Module
+
+Provides human oversight throughout the generation process.
+
+Features:
+
+- Interactive implementation review
+- Architecture approval workflows
+- Manual ambiguity resolution
+- Generation checkpoints
+- Code review approval
+- Experiment configuration approval
+
+---
+
+## 8. Verification and Validation Module
+
+Evaluates generated implementations.
+
+Features:
+
+- Automated testing
+- Paper-to-code consistency checks
+- Runtime validation
+- Performance comparisons
+- Regression testing
+- Implementation deviation reports
+
+---
+
+# Optional Plugin Modules
+
+## 1. Dataset Intelligence Plugin
+
+Adds advanced dataset discovery and preparation.
+
+Features:
+
+- Automatic dataset retrieval
+- Dataset validation
+- Preprocessing generation
+- Data quality analysis
+
+---
+
+## 2. Multi-Paper Research Plugin
+
+Enables combining knowledge from multiple publications.
+
+Features:
+
+- Literature comparison
+- Cross-paper architecture analysis
+- Hybrid implementation generation
+- Research trend discovery
+
+---
+
+## 3. Experiment Optimization Plugin
+
+Provides automated experiment improvement.
+
+Features:
+
+- Hyperparameter optimization
+- Experiment scheduling
+- Benchmark comparison
+- Performance tuning
+
+---
+
+## 4. Deployment Automation Plugin
+
+Extends generated projects into production systems.
+
+Features:
+
+- Docker generation
+- Kubernetes deployment
+- API generation
+- Cloud deployment templates
+- Edge deployment support
+
+---
+
+## 5. Framework Translation Plugin
+
+Converts implementations between ecosystems.
+
+Features:
+
+- PyTorch conversion
+- TensorFlow conversion
+- JAX conversion
+- ONNX export
+- Hardware accelerator optimization
+
+---
+
+## 6. Research Monitoring Plugin
+
+Tracks new developments after implementation.
+
+Features:
+
+- Literature monitoring
+- Related paper discovery
+- Implementation update suggestions
+- Version comparison
+
+---
+
+## 7. Collaboration Plugin
+
+Supports community development.
+
+Features:
+
+- Contribution workflows
+- Review systems
+- Shared implementation libraries
+- Research project management
+
+---
+
+## 8. Explainability Plugin
+
+Provides deeper understanding of generated systems.
+
+Features:
+
+- Architecture explanations
+- Decision history
+- Model behavior analysis
+- Implementation rationale reports
+
+---
+
+# Compliance Requirements
+
+A Paper2Code Specification implementation must:
+
+- Maintain modular architecture principles.
+- Preserve traceability between source material and generated output.
+- Provide transparency regarding uncertainty and assumptions.
+- Support human review of critical implementation decisions.
+- Maintain reproducible development workflows.
+
+---
+
 > arxiv URL in → citation-anchored implementation out
 
     ┌─────────────────────────────┐         ┌──────────────────────────────────────┐
@@ -109,8 +389,5 @@ You'll be prompted to:
 Once installed, open your agent and run the skill 
 
 ---
-The rest of the README remains unchanged from the original repository.
----
-
 **Open Arsenal Hub**  
 [https://gitlab.com/Roxanne_Ardary/open-arsenal-specs](https://gitlab.com/Roxanne_Ardary/open-arsenal-specs)
