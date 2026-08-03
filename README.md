@@ -25,9 +25,9 @@ In addition to the open licensing model, a Specification Branding License is ava
 [https://roxanneardary.com/human-in-the-loop/](https://roxanneardary.com/human-in-the-loop/)  
 Human-in-the-loop (HITL) architecture page by Roxanne Ardary describing the importance of human oversight in AI systems for accountability, safety, liability, and responsible deployment. Lists related open projects.  
 
-- **Aurelia Civic OS**  
+- [**Aurelia Civic OS Module Specification**](https://github.com/openarsenalspecs/Human-in-the-Loop/blob/822a410e2499dea582878cac97ce2849ee924744/Aurelia%20Civic%20OS.md)    
 [https://roxanneardary.com/aurelia-civic-os/](https://roxanneardary.com/aurelia-civic-os/)  
-A municipal-first civic operating system that structures real-world labor, services, and manufacturing through Intent Mesh routing, Skill Graph intelligence, and verification-driven local execution. 
+A municipal-first civic operating system that structures real-world labor, services, and manufacturing through Intent Mesh routing, Skill Graph intelligence, and verification-driven local execution.  
 
 - **BrandFabric**  
 [https://roxanneardary.com/brandfabric/](https://roxanneardary.com/brandfabric/)  
