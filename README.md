@@ -29,7 +29,7 @@ Human-in-the-loop (HITL) architecture page by Roxanne Ardary describing the impo
 [https://roxanneardary.com/aurelia-civic-os/](https://roxanneardary.com/aurelia-civic-os/)  
 A municipal-first civic operating system that structures real-world labor, services, and manufacturing through Intent Mesh routing, Skill Graph intelligence, and verification-driven local execution.  
 
-- **BrandFabric**  
+- [**BrandFabric Module Specification**](https://github.com/openarsenalspecs/Human-in-the-Loop/blob/af86b3a8d4d8ddbabc993ac07eaa67c60e969875/BrandFabric.md)    
 [https://roxanneardary.com/brandfabric/](https://roxanneardary.com/brandfabric/)  
 BrandFabric is an open-source AI governance platform that helps organizations maintain brand identity, creative consistency, and compliance across generative AI workflows. It provides a transparent intelligence layer for managing brand knowledge, AI-generated content, and enterprise creative governance.  
 
