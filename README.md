@@ -31,7 +31,11 @@ A municipal-first civic operating system that structures real-world labor, servi
 
 - [**BrandFabric Module Specification**](https://github.com/openarsenalspecs/Human-in-the-Loop/blob/af86b3a8d4d8ddbabc993ac07eaa67c60e969875/BrandFabric.md)    
 [https://roxanneardary.com/brandfabric/](https://roxanneardary.com/brandfabric/)  
-BrandFabric is an open-source AI governance platform that helps organizations maintain brand identity, creative consistency, and compliance across generative AI workflows. It provides a transparent intelligence layer for managing brand knowledge, AI-generated content, and enterprise creative governance.  
+BrandFabric is an open-source AI governance platform that helps organizations maintain brand identity, creative consistency, and compliance across generative AI workflows. It provides a transparent intelligence layer for managing brand knowledge, AI-generated content, and enterprise creative governance.
+
+- **CipherMind**
+[https://roxanneardary.com/ciphermind/](https://roxanneardary.com/ciphermind/)  
+CipherMind is a privacy-first, modular specification for human-controlled AI and multi-agent networks, enabling secure collaboration across conversations, devices, agents, tools, and models. It prioritizes human decision making, persistent context, strong authentication, device synchronization, remote access, transparent activity logging, privacy, security, and user-controlled data portability.  
 
 - [**CortexLoop Module Specification**](https://github.com/openarsenalspecs/Human-in-the-Loop/blob/8633740b59357692cd2d14d49404f306ffbbc1a4/CortexLoop.md)    
 [https://roxanneardary.com/cortexloop/](https://roxanneardary.com/cortexloop/)  
