@@ -33,7 +33,7 @@ A municipal-first civic operating system that structures real-world labor, servi
 [https://roxanneardary.com/brandfabric/](https://roxanneardary.com/brandfabric/)  
 BrandFabric is an open-source AI governance platform that helps organizations maintain brand identity, creative consistency, and compliance across generative AI workflows. It provides a transparent intelligence layer for managing brand knowledge, AI-generated content, and enterprise creative governance.
 
-- **CipherMind**
+- [**CipherMind Module Specification**](https://github.com/openarsenalspecs/Human-in-the-Loop/blob/942fe67d45f6f73354d3d56a4c506fbec3710798/CipherMind.md)  
 [https://roxanneardary.com/ciphermind/](https://roxanneardary.com/ciphermind/)  
 CipherMind is a privacy-first, modular specification for human-controlled AI and multi-agent networks, enabling secure collaboration across conversations, devices, agents, tools, and models. It prioritizes human decision making, persistent context, strong authentication, device synchronization, remote access, transparent activity logging, privacy, security, and user-controlled data portability.  
 
