@@ -37,7 +37,7 @@ BrandFabric is an open-source AI governance platform that helps organizations ma
 [https://roxanneardary.com/ciphermind/](https://roxanneardary.com/ciphermind/)  
 CipherMind is a privacy-first, modular specification for human-controlled AI and multi-agent networks, enabling secure collaboration across conversations, devices, agents, tools, and models. It prioritizes human decision making, persistent context, strong authentication, device synchronization, remote access, transparent activity logging, privacy, security, and user-controlled data portability.  
 
-- [**CortexLoop Module Specification**](https://github.com/openarsenalspecs/Human-in-the-Loop/blob/8633740b59357692cd2d14d49404f306ffbbc1a4/CortexLoop.md)    
+- [**CortexLoop Module Specification**](https://github.com/openarsenalspecs/Human-in-the-Loop/blob/e759640e91aea92b8059ca0199c5000eaab9f3f1/CortexLoop.md)      
 [https://roxanneardary.com/cortexloop/](https://roxanneardary.com/cortexloop/)  
 A human-in-the-loop AI orchestration system that enforces transparent, structured, and auditable reasoning with full user control over every decision and execution step. AGPLv3.  
 
